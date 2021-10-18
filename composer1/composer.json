@@ -1,0 +1,16 @@
+{
+    "name": "claire/composer1",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "Claire\\Composer1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "clr-89",
+            "email": "clr.minier@gmail.com"
+        }
+    ],
+    "require": {}
+}
